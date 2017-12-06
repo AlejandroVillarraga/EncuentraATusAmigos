@@ -12,8 +12,6 @@
 ### Nombre del Proyecto: Encuentra a tus Amigos - Arquitectura de Software (ARSW)
 ### Autores: 
 1. Danilo Alejandro Villarraga Guerrero
-2. Jairo Gonzalez Boada
-3. Miguel Angel Rojas Martinez
 
 #### Descripcion: 
 Search Friends es una plataforma en la cual podrás ver en tiempo real la ubicación de tus amigos  dentro de la Escuela Colombiana de Ingeniería Julio Garavito, podrás quedar con tus amigos para encontrarse en cualquier parte de la universidad.
